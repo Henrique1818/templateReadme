@@ -1,8 +1,12 @@
+<center>
+
 ![Project Image](project-image-url)
 
-# Project Name
+## Project Name
 
 > previous project description
+
+</center>
 
 ---
 
@@ -116,8 +120,15 @@ or
 
 
 ---
+
+
+<center>
+
 ## Author
+
 
 Desenvolvido por: [Henrique](www.linkedin.com/in/luiz-henrique1889) :space_invader:
 
 [GitHub](https://github.com/Henrique1818) | [Instagram](https://www.instagram.com/henrique18_89/) :heart:
+
+</center>
