@@ -1,12 +1,12 @@
-<center>
+<div align="center">
+<img src="project-image-url" alt="Project Image">
 
-![Project Image](project-image-url)
+<br />
+<h2>Project Name</h2>
 
-## Project Name
+<p><strong>previous project description</strong></p>
+</div>
 
-> previous project description
-
-</center>
 
 ---
 
@@ -39,32 +39,31 @@ describe a summary of your project and what it does.
 ## Technology used
 
 - **Frontend:**
-    - HTML
-    - CSS
-    - Javascript
-    - Frameworks:
-        - React.js
+    - [HTML](html)
+    - [CSS](CSS)
+    - [Javascript](Javascript)
+    - Frameworks / Libraries:
+        - [React.js](React.js)
 
 - **Backend:**
-    - Node.js
+    - [Node.js](Node.js)
     - Frameworks:
-        - Express.js
+        - [Express.js](Express.js)
     - Libraries and Packages:
-        - Nodemon
-        - Body-parser
-        - Cors
-        - Browser-sync
-        - Date-fns
-        - Mongoose
+        - [Nodemon](Nodemon)
+        - [Body-parser](Body-parser)
+        - [Cors](Cors)
+        - [Browser-sync](Browser-sync)
+        - [Date-fns](Date-fns)
+        - [Mongoose](Mongoose)
 
 - **Database:**
-    - MongoDB
+    - [MongoDB](MongoDB)
 
 
 ---
 
 ## How to use
-
 
 ### Requirements
 
@@ -123,12 +122,10 @@ or
 
 
 <center>
-
-## Author
+<h3>Author</h3>
 
 
 Desenvolvido por: [Henrique](www.linkedin.com/in/luiz-henrique1889) :space_invader:
 
 [GitHub](https://github.com/Henrique1818) | [Instagram](https://www.instagram.com/henrique18_89/) :heart:
-
 </center>
