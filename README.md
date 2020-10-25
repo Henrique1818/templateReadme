@@ -126,7 +126,7 @@ or
 
 <br />
 <p>
-<a href="www.linkedin.com/in/luiz-henrique1889" target="_blank">Henrique :space_invader:</a>
+<a href="https://www.linkedin.com/in/luiz-henrique-23915916a/" target="_blank">Henrique :space_invader:</a>
 </p>
 
 <p align="center">
