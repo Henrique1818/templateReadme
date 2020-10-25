@@ -121,11 +121,22 @@ or
 ---
 
 
-<center>
+<div align="center">
 <h3>Author</h3>
 
+<br />
+<p>
+<a href="www.linkedin.com/in/luiz-henrique1889" target="_blank">Henrique :space_invader:</a>
+</p>
 
-Desenvolvido por: [Henrique](www.linkedin.com/in/luiz-henrique1889) :space_invader:
-
-[GitHub](https://github.com/Henrique1818) | [Instagram](https://www.instagram.com/henrique18_89/) :heart:
-</center>
+<p align="center">
+    <span>
+        <a href="https://github.com/Henrique1818" target="_blank">Github</a>
+    </span>
+    |
+    <span>
+        <a href="https://www.instagram.com/henrique18_89/" target="_blank">Instagram</a>
+    </span>
+    :heart:
+</p>
+</div>
